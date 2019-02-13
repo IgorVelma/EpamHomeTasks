@@ -1,0 +1,7 @@
+D:\Projects Sharp\HomeTask11_12_Wolf_And_3Pigs\HomeTask11_12_Wolf_And_3Pigs\obj\Debug\HomeTask11_12_Wolf_And_3Pigs.csprojAssemblyReference.cache
+D:\Projects Sharp\HomeTask11_12_Wolf_And_3Pigs\HomeTask11_12_Wolf_And_3Pigs\obj\Debug\HomeTask11_12_Wolf_And_3Pigs.csproj.CoreCompileInputs.cache
+D:\Projects Sharp\HomeTask11_12_Wolf_And_3Pigs\HomeTask11_12_Wolf_And_3Pigs\bin\Debug\HomeTask11_12_Wolf_And_3Pigs.exe.config
+D:\Projects Sharp\HomeTask11_12_Wolf_And_3Pigs\HomeTask11_12_Wolf_And_3Pigs\bin\Debug\HomeTask11_12_Wolf_And_3Pigs.exe
+D:\Projects Sharp\HomeTask11_12_Wolf_And_3Pigs\HomeTask11_12_Wolf_And_3Pigs\bin\Debug\HomeTask11_12_Wolf_And_3Pigs.pdb
+D:\Projects Sharp\HomeTask11_12_Wolf_And_3Pigs\HomeTask11_12_Wolf_And_3Pigs\obj\Debug\HomeTask11_12_Wolf_And_3Pigs.exe
+D:\Projects Sharp\HomeTask11_12_Wolf_And_3Pigs\HomeTask11_12_Wolf_And_3Pigs\obj\Debug\HomeTask11_12_Wolf_And_3Pigs.pdb
